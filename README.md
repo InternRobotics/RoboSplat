@@ -29,7 +29,6 @@ https://github.com/user-attachments/assets/2e719bdd-7f97-4269-aac8-ca0b555f6e6f
 
 - [🔥 Highlight](#highlight)
 - [🛠️ Getting Started](#getting_started)
-- [📌 TODO](#todo)
 - [🔗 Citation](#citation)
 - [📄 License](#license)
 - [👏 Acknowledgements](#acknowledgements)
@@ -124,11 +123,7 @@ Description of Arguments:
 - `--augment_camera_pose`: (bool) Whether to apply camera pose augmentation.
 - `--output_path`: (str) Path to save the generated demonstrations and the videos.
 
-
-## 📌 TODO <a name="todo"></a>
-- [x] Release the code for object pose augmentation, lighting augmentation, appearance augmentation, and camera pose augmentation. 
-- [ ] Release the code for object type augmentation, and embodiment augmentation.
-- [ ] Release the code for preprocessing 3D Gaussians.
+The code for preprocessing 3D Gaussians is available on [Google Drive](https://drive.google.com/drive/folders/1EAnD3wsMzOAqtzS2TRGgrm-B90QgPk14?usp=drive_link).
 
 
 ## 🔗 Citation <a name="citation"></a>
