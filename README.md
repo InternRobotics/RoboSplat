@@ -52,7 +52,7 @@ Compared to previous 2D data augmentation methods, our approach achieves **signi
 First, clone this repository.
 
 ```
-git clone https://github.com/OpenRobotLab/RoboSplat.git
+git clone https://github.com/InternRobotics/RoboSplat.git
 ```
 
 (Optional) Use conda to manage the python environment.
